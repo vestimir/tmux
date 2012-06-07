@@ -1,4 +1,4 @@
-tmux configuration
+tmux config
 ====
 
 Installation
